@@ -1,13 +1,12 @@
-### `Advent of Code 2024`
+# Advent of Code 2024
 
-```markdown
-# Rust Advent Solutions
 
 This repository contains solutions for Advent of Code 2024 challenges implemented in Rust. Each day is organized into separate directories, with subdirectories for individual parts of the challenge.
 
 ---
 
 ## Project Structure
+```markdown
 
 root/
 ├── Day1/
@@ -24,7 +23,7 @@ root/
 ├── .gitignore             # Git ignore rules
 └── README.md              # Project documentation
 
----
+```
 
 ## How to Use
 
@@ -107,5 +106,3 @@ Result for './Day1/Part2':
 1337
 -----------------------------------
 ```
-
----
