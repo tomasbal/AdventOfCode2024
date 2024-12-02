@@ -19,7 +19,7 @@ root/
 ├── Day2/
 │   ├── Part1/
 │   ├── Part2/
-├── run.sh       # Bash script to compile and run solutions
+├── run.sh                 # Bash script to compile and run solutions
 ├── .gitignore             # Git ignore rules
 └── README.md              # Project documentation
 
